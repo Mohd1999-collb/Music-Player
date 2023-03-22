@@ -1,2 +1,2 @@
 # Music-Player
-Task - 3 of Sync Internship
+# Task - 3 of Sync Internship
