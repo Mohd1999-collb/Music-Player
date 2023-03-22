@@ -10,4 +10,4 @@
 8. Ensuring that the music player is reliable, stable, and efficient, with minimal resource usage and fast performance.
 9. Supporting multiple platforms, such as desktop computers, smartphones, and tablets.
 10. Providing regular updates and bug fixes to improve the functionality and performance of the music player.
- Thank You...!
+# Thank You...!
