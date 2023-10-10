@@ -11,4 +11,5 @@
 9. Supporting multiple platforms, such as desktop computers, smartphones, and tablets.
 10. Providing regular updates and bug fixes to improve the functionality and performance of the music player.
 # Thank You...!
-![music image](https://github.com/Mohd1999-collb/Music-Player/assets/96992202/f0de7ab0-95ff-47c6-9f94-6080c58ac201)
+
+![music image](https://github.com/Mohd1999-collb/Music-Player/assets/96992202/7ef8dd6a-c087-408e-ad02-c3d30d18a48f)
